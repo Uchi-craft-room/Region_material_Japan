@@ -2,6 +2,11 @@
 Region_material_Japan / Materials / regions“à‚Ìmaterials.xml‚ğ
 C: / Program Files / FlightGear 2018.*.* / data / Materials / regions“à‚Ìmaterials.xml‚Æ“ü‚ê‘Ö‚¦‚Ä‚­‚¾‚³‚¢B
 
+Region_material_Japan / Materials / regions“à‚Ìlarge_cities_illumination.xml‚ğ
+C: / Program Files / FlightGear 2018.*.* / data / Materials / regions“à‚Ìlarge_cities_illumination.xml‚Æ“ü‚ê‘Ö‚¦‚Ä‚­‚¾‚³‚¢
+
 Region_material_Japan / Materials / regions“à‚Ìjapan.xml‚ğ
 C: / Program Files / FlightGear 2018.*.* / data / Materials / regions“à‚É’Ç‰Á‚µ‚Ä‚­‚¾‚³‚¢B
+
+
 

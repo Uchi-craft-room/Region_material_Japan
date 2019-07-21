@@ -6,7 +6,10 @@ Configuration file for runway yellow marking in Japanese terrain texture data.
 
 
 Region_material_Japan / Materials / regions内のmaterials.xmlを
-C: / Program Files / FlightGear 2018.*.* / data / Materials / regions内のmaterials.xmlと入れ替えてください。
+C: / Program Files / FlightGear 201*.*.* / data / Materials / regions内のmaterials.xmlと入れ替えてください。
+
+Region_material_Japan / Materials / regions内のlarge_cities_illumination.xmlを
+C: / Program Files / FlightGear 201*.*.* / data / Materials / regions内のlarge_cities_illumination.xmlと入れ替えてください
 
 Region_material_Japan / Materials / regions内のjapan.xmlを
-C: / Program Files / FlightGear 2018.*.* / data / Materials / regions内に追加してください。
+C: / Program Files / FlightGear 201*.*.* / data / Materials / regions内に追加してください。
